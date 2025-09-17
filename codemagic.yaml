@@ -15,4 +15,3 @@ workflows:
         name: iOS Sample Workflow
 
         # ......
-codemagic.yaml
